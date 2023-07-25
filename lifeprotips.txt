@@ -1,1 +1,3 @@
-Clone your github repositories using ssh!
+Clone your github repositories using ssh and not https!
+Keep up the good work!
+Just google it.
